@@ -1,4 +1,5 @@
 ## Defining the System
+![alt text](https://github.com/jatin-kumar-123/First_Sprint_Mini_Project/blob/main/1_Requirements/Defining%20System.png)
 
 ## SWOT Analysis
 ### Strengths
