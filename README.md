@@ -18,8 +18,9 @@ This is a GUI app that classifies garbage as biodegradable or non-biodegradable 
 
 ## Interface of the app
 1. A wide screen to display image
-2. A browse button to select image from the device
-3. An exit button to exit the app
+2. A long flex type display to display the output i.e. the type of the garbage.
+3. A browse button to select image from the device
+4. An exit button to exit the app
 
 ## How the app looks
 ![alt text](https://github.com/jatin-kumar-123/First_Sprint_Mini_Project/blob/main/Capture.JPG)
