@@ -3,7 +3,7 @@ This is a GUI app that classifies garbage as biodegradable or non-biodegradable 
 
 ## How to run the app
 1. Clone the repository.
-2. Place the .weights and .cfg files from 3_implementation folder, in appropriate directory and provide the same path in the files for testing the model and GUI app.
+2. Place the .weights and .cfg files from 3_Implementation folder, in appropriate directory and provide the same path in the files for testing the model and GUI app.
 3. Run the file for testing model to test trained model on you custom (self clicked) images.
 4. Run the GUI app file to run the GUI app.
 
