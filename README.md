@@ -23,4 +23,4 @@ This is a GUI app that classifies garbage as biodegradable or non-biodegradable 
 4. An exit button to exit the app
 
 ## How the app looks
-![alt text](https://github.com/jatin-kumar-123/First_Sprint_Mini_Project/blob/main/Capture.JPG)
+![alt text](https://github.com/jatin-kumar-123/First_Sprint_Mini_Project/blob/main/App_Interface.JPG)
